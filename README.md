@@ -8,26 +8,11 @@
  
   and trying to make the world a better place.     
  
- Feel free to ask me any questions.
+ Feel free to ask me any questions 😄.
  
  Follow me on LinkedIn.    
  ═══════════════════════════════════════════════════════                                                                      
 
-😄 Lucía Alvarez                  📘 Achivments
-
-║                                  ┣━━ 🐍 Packages  
-
-
-
-
-😄 Lucía Alvarez                  ┣━━ ═══╗ 😄 Maarten Grootendorst 
-┣━━ 🐍 Packages                   ┣━━ 
-┣━━ Python                         ┣━━
-┣━━ SQL                            ┣━━ 
-┣━━ R   
-┣━━ SPSS
-┣━━ MPLUS
-┗━━ JASP 
 
 <!--
 **luciaalvarezuy/luciaalvarezuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
