@@ -27,12 +27,16 @@
 
 | Rank | Languages |
 |-----:|-----------|
-|     1| Python    |
-|     2| Spanish version of need for cognition scale: Evidence of reliability, validity and factorial invariance of
-the very efcient short-form        |
-|     3| Role of parenting practices, mother`s personality and depressive symptoms in early child development      |
-|     4| MPLUS     |
-|     5| R         |
+|     1| Behavioural Problems in a Nationally Representative Sample of Uruguay. Characterisation of Latent Profiles   |
+|     2| Spanish version of need for cognition scale       |
+|     3| [Role of parenting practices, mother`s personality and depressive symptoms in early child development ](https://www.sciencedirect.com/science/article/pii/S0163638322000157#:~:text=Maternal%20personality%20and%20depressive%20symptomatology%20was%20associated%20with%20parenting%20practices.&text=Maternal%20openness%2C%20was%20associated%20with%20child%20development%20because%20of%20parenting%20practices.&text=Maternal%20depressive%20symptomatology%20was%20associated%20both%20directly%20and%20indirectly%20with%20socioemotional%20development. )    |
+|     4| Developmental disparities based on socioeconomic status and sex     |
+|     5| Psychometric properties of the ASQ-3 in a nationally representative sample of Uruguay (         |
+|     5| Time Attitude Profiles and Health-Related Behaviors         |
+|     5| Psychometric properties of the ASQ-3 in a nationally representative sample of Uruguay (         |
+|     5| Psychometric properties ofthe Spanish version ofthe Ages & Stages Questionnaires        |
+ 
+ 
 
 </details>
 <!--
