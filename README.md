@@ -5,7 +5,9 @@
   passionate about testing models to understand processes
   
    🔭and help organisations make more informed decisions. 
-    🔭I enjoy honing and learning new skills and trying to make 
+   
+    🔭I enjoy honing and learning new skills and trying to make
+    
     🔭the world a better place.     
  
   🔭 I’m currently working on ...
