@@ -14,6 +14,15 @@
  ═══════════════════════════════════════════════════                                                                      
 
 
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| SQL       |
+|     3| SPSS      |
+|     4| MPLUS     |
+|     5| R         |
+
+
 <!--
 **luciaalvarezuy/luciaalvarezuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
