@@ -10,7 +10,7 @@
 ║                                                          ║                  
 ║ Feel free to ask me anything!                            ║       
 ╚══════════════════════════════════════════════════════════╝     
-                                                             
+ ║ A psychologist turned data scientist who is passionate   ║ ┣━━ 🐍 Packages                                                             
 
 😄 Lucía Alvarez                  📘 Achivments
 ┣━━ 🐍 Packages                   ┣━━ 
