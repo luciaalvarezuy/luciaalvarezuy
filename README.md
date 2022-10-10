@@ -10,7 +10,7 @@
  
  Feel free to ask me any questions 😄.
  
- Follow me on LinkedIn.    
+ Follow me on [LinkedIn](https://www.linkedin.com/in/mag-lucía-alvarez-nuñez/).    
  ═══════════════════════════════════════════════════                                                                      
 <details>
 <summary>My top languages</summary>
