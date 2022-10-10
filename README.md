@@ -12,7 +12,8 @@
  
  Follow me on LinkedIn.    
  ═══════════════════════════════════════════════════                                                                      
-
+<details>
+<summary>My top languages</summary>
 
 | Rank | Languages |
 |-----:|-----------|
@@ -22,7 +23,7 @@
 |     4| MPLUS     |
 |     5| R         |
 
-
+</details>
 <!--
 **luciaalvarezuy/luciaalvarezuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
