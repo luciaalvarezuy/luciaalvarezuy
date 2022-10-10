@@ -1,8 +1,8 @@
 ### <!--Hi there 👋-->
 ═══════════════════ Hi 👋 I'm Lucía ════════════════════   
- A research psychologist turned data scientist who is
+ A research psychologist turned data scientist who is passionate about
  
- passionate about testing models to understand processes
+  testing models to understand processes
  
  and help organisations make more informed decisions. 
  
