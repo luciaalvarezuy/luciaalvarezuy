@@ -10,9 +10,9 @@
  Follow me on [LinkedIn](https://www.linkedin.com/in/mag-lucía-alvarez-nuñez/).    
                                                                    
 <details>
-<summary>My top languages</summary>
+<summary>My top professional skills</summary>
 
-| Rank | Languages |
+| Rank | Skills    |
 |-----:|-----------|
 |     1| Python    |
 |     2| SQL       |
