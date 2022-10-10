@@ -1,5 +1,5 @@
 ### Hi there 👋
-╔═══════════════════ Hi 👋 I'm Lucía ════════════════════╗                  
+═══════════════════ Hi 👋 I'm Lucía ════════════════════                  
   A psychologist turned data scientist who is passionate                            
   about using artificial intelligence to make the world a                          
   slightly better place. I enjoy working on open source                              
@@ -8,7 +8,7 @@
   Follow me on Twitter and LinkedIn.                                                    
                                                                             
   Feel free to ask me anything!                                              
-╚══════════════════════════════════════════════════════════╝                                                                      
+════════════════════════════════════════════════════════                                                                      
 
 😄 Lucía Alvarez                  📘 Achivments
 ║                                  ┣━━ 🐍 Packages  
