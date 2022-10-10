@@ -3,9 +3,9 @@
  A research psychologist turned data scientist who is    
    🔭
   passionate about testing models to understand processes
- and help organisations make more informed decisions. 
- I enjoy honing and learning new skills and trying to make 
- the world a better place.     
+   🔭and help organisations make more informed decisions. 
+    🔭I enjoy honing and learning new skills and trying to make 
+    🔭the world a better place.     
  
   🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
