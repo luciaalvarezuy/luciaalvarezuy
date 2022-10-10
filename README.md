@@ -1,5 +1,5 @@
 ### <!--Hi there 👋-->
-═══════════════════ Hi 👋 I'm Lucía ════════════════════   
+ Hi 👋 I'm Lucía
  A research psychologist turned data scientist who is passionate about
  
   testing models to understand processes and help organisations make
@@ -11,7 +11,7 @@
  Feel free to ask me any questions 😄.
  
  Follow me on [LinkedIn](https://www.linkedin.com/in/mag-lucía-alvarez-nuñez/).    
- ═══════════════════════════════════════════════════                                                                      
+                                                                   
 <details>
 <summary>My top languages</summary>
 
