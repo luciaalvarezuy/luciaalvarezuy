@@ -21,6 +21,20 @@
 |     5| R         |
 
 </details>
+
+<details>
+<summary>My top publications</summary>
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| Spanish version of need for cognition scale: Evidence of reliability, validity and factorial invariance of
+the very efcient short-form        |
+|     3| Role of parenting practices, mother`s personality and depressive symptoms in early child development      |
+|     4| MPLUS     |
+|     5| R         |
+
+</details>
 <!--
 **luciaalvarezuy/luciaalvarezuy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
