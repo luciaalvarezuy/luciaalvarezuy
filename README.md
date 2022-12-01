@@ -17,8 +17,9 @@
 |     1| Python    |
 |     2| SQL       |
 |     3| SPSS      |
-|     4| MPLUS     |
-|     5| R         |
+|     4| Tableau   | 
+|     5| MPLUS     |
+|     6| R         |
 
 </details>
 
