@@ -10,7 +10,7 @@
  Follow me on [LinkedIn](https://www.linkedin.com/in/mag-lucía-alvarez-nuñez/).   
  The list of publications in peer-reviewed journals can be found [here](https://scholar.google.com/citations?user=WpzOV1EAAAAJ&hl=es). 
  
- Currently, I am part of the [Data Science and Psychometrics] (https://fundamentos.psico.edu.uy/programas/ciencia-de-datos) teaching team at the University of the Republic of Uruguay.
+ Currently, I am part of the [Data Science and Psychometrics](https://fundamentos.psico.edu.uy/programas/ciencia-de-datos) teaching team at the University of the Republic of Uruguay.
 
 
                                                                    
