@@ -28,14 +28,15 @@
 
 | Rank | Publications |
 |-----:|-----------|
-|     1| [Behavioural Problems in a Nationally Representative Sample of Uruguay. Characterisation of Latent Profiles ](https://pubmed.ncbi.nlm.nih.gov/32537665/) |
-|     2| [Spanish version of need for cognition scale ](https://link.springer.com/article/10.1007/s12144-022-02739-2 )    |
-|     3| [Incidencias socioeconómicas en el desarrollo emocional](https://blogs.iadb.org/desarrollo-infantil/es/incidencias-socioeconomicas-en-el-desarrollo-emocional/)    |
-|     4| [Role of parenting practices, mother`s personality and depressive symptoms in early child development](https://www.sciencedirect.com/science/article/pii/S0163638322000157#:~:text=Maternal%20personality%20and%20depressive%20symptomatology%20was%20associated%20with%20parenting%20practices.&text=Maternal%20openness%2C%20was%20associated%20with%20child%20development%20because%20of%20parenting%20practices.&text=Maternal%20depressive%20symptomatology%20was%20associated%20both%20directly%20and%20indirectly%20with%20socioemotional%20development. )    |
-|     5| [Developmental disparities based on socioeconomic status and sex ](https://www.tandfonline.com/doi/abs/10.1080/03004430.2021.1946528?journalCode=gecd20 )    |
-|     6| [Time Attitude Profiles and Health-Related Behaviors ](https://pubmed.ncbi.nlm.nih.gov/33213606/)       |
-|     7| [Psychometric properties of the ASQ-3 in a nationally representative sample of Uruguay ](https://pubmed.ncbi.nlm.nih.gov/33839477/)       |
-|     8| [Psychometric properties ofthe Spanish version ofthe Ages & Stages Questionnaires ](https://pubmed.ncbi.nlm.nih.gov/32829239/)      |
+|     1| [Consideration of future consequences: evidence of weekly fluctuations and domain-specificity in association with health, academic, and work outcomes](https://link.springer.com/article/10.1007/s12144-022-03910-5) |
+|     2| [Behavioural Problems in a Nationally Representative Sample of Uruguay. Characterisation of Latent Profiles ](https://pubmed.ncbi.nlm.nih.gov/32537665/) |
+|     3| [Spanish version of need for cognition scale ](https://link.springer.com/article/10.1007/s12144-022-02739-2 )    |
+|     4| [Incidencias socioeconómicas en el desarrollo emocional](https://blogs.iadb.org/desarrollo-infantil/es/incidencias-socioeconomicas-en-el-desarrollo-emocional/)    |
+|     5| [Role of parenting practices, mother`s personality and depressive symptoms in early child development](https://www.sciencedirect.com/science/article/pii/S0163638322000157#:~:text=Maternal%20personality%20and%20depressive%20symptomatology%20was%20associated%20with%20parenting%20practices.&text=Maternal%20openness%2C%20was%20associated%20with%20child%20development%20because%20of%20parenting%20practices.&text=Maternal%20depressive%20symptomatology%20was%20associated%20both%20directly%20and%20indirectly%20with%20socioemotional%20development. )    |
+|     6| [Developmental disparities based on socioeconomic status and sex ](https://www.tandfonline.com/doi/abs/10.1080/03004430.2021.1946528?journalCode=gecd20 )    |
+|     7| [Time Attitude Profiles and Health-Related Behaviors ](https://pubmed.ncbi.nlm.nih.gov/33213606/)       |
+|     8| [Psychometric properties of the ASQ-3 in a nationally representative sample of Uruguay ](https://pubmed.ncbi.nlm.nih.gov/33839477/)       |
+|     9| [Psychometric properties ofthe Spanish version ofthe Ages & Stages Questionnaires ](https://pubmed.ncbi.nlm.nih.gov/32829239/)      |
  
  
 
