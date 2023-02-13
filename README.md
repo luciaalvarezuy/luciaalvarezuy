@@ -24,8 +24,7 @@
 |     3| SPSS      |
 |     4| Tableau   | 
 |     5| Power BI  |
-|     6| R         |
-|     7| MPLUS     |
+|     6| MPLUS     |
 
 </details>
 
