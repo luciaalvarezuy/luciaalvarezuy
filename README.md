@@ -3,7 +3,7 @@
  
  A research psychologist turned data scientist who is passionate about testing models to understand processes and help organisations make more informed decisions. 
  
- I enjoy honing and learning new skills and trying to make the world a better place.     
+ I enjoy honing and learning new skills.     
  
  Feel free to ask me any questions 😄.
  
@@ -21,8 +21,8 @@
 |-----:|-----------|
 |     1| Python    |
 |     2| SQL       |
-|     3| SPSS      |
-|     4| Tableau   | 
+|     3| Tableau   | 
+|     4| SPSS      |
 |     5| Power BI  |
 |     6| MPLUS     |
 
