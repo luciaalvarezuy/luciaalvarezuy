@@ -20,11 +20,12 @@
 | Rank | Skills    |
 |-----:|-----------|
 |     1| Python    |
-|     2| SQL       |
-|     3| Tableau   | 
-|     4| SPSS      |
+|     2| R         |
+|     3| SQL       |
+|     4| Tableau   | 
 |     5| Power BI  |
-|     6| MPLUS     |
+|     6| SPSS      |
+|     7| MPLUS     |
 
 </details>
 
