@@ -15,6 +15,8 @@
 
                                                                    
 <details>
+<summary>My top professional skills</summary>
+
 ### Skills:
 - Data Science
 - Big Data
