@@ -27,7 +27,7 @@
 ### Tools and Technologies:
 - **Programming Languages:** Python, R
 - **Databases:** SQL, MongoDB
-- **Big Data:** Hadoop
+- **Big Data:** Hadoop, PySpark
 - **Data Visualization:** Power BI, Tableau
 - **Statistical Analysis:** SPSS, MPlus
 </details>
