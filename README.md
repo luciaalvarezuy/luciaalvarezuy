@@ -15,7 +15,7 @@
 
                                                                    
 <details>
-<summary>My top professional skills</summary>
+<summary>My top professional skills, Tools and Technologies </summary>
 
 ### Skills:
 - Data Science
