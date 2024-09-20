@@ -17,16 +17,19 @@
 <details>
 <summary>My top professional skills</summary>
 
-| Rank | Skills    |
-|-----:|-----------|
-|     1| Python    |
-|     2| R         |
-|     3| SQL       |
-|     4| Tableau   | 
-|     5| Power BI  |
-|     6| SPSS      |
-|     7| MPLUS     |
+### Skills:
+- Data Science
+- Big Data
+- Statistical Analysis
+- Data Visualization
+- Machine Learning
 
+### Tools and Technologies:
+- **Programming Languages:** Python, R, SQL
+- **Databases:** SQL, MongoDB
+- **Big Data:** Hadoop
+- **Data Visualization:** Power BI, Tableau
+- **Statistical Analysis:** SPSS, MPlus
 </details>
 
 <details>
