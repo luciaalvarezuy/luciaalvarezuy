@@ -15,7 +15,7 @@
 
                                                                    
 <details>
-<summary>My top professional skills, Tools and Technologies </summary>
+<summary>My top professional Skills, Tools and Technologies </summary>
 
 ### Skills:
 - Data Science
@@ -25,7 +25,7 @@
 - Machine Learning
 
 ### Tools and Technologies:
-- **Programming Languages:** Python, R, SQL
+- **Programming Languages:** Python, R
 - **Databases:** SQL, MongoDB
 - **Big Data:** Hadoop
 - **Data Visualization:** Power BI, Tableau
