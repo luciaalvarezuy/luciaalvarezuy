@@ -3,9 +3,7 @@
  
  I'm a research psychologist and data scientist with a strong interest in modeling human behavior to support evidence-based decisions in organizations. My work bridges psychology, data science, and psychometrics — from measuring individual differences and well-being to developing tools that assess programs, interventions, or populations.
  
- I enjoy honing and learning new skills.     
-
-I’m especially passionate about:
+I enjoy honing and learning new skills. I’m especially passionate about:
 
 - Understanding how people think, decide, and change over time
 
