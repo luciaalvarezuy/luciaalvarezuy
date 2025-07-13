@@ -1,10 +1,18 @@
 ### <!--Hi there 👋-->
  Hi 👋 I'm Lucía
  
- A research psychologist turned data scientist who is passionate about testing models to understand processes and help organisations make more informed decisions. 
+ I'm a research psychologist and data scientist with a strong interest in modeling human behavior to support evidence-based decisions in organizations. My work bridges psychology, data science, and psychometrics — from measuring individual differences and well-being to developing tools that assess programs, interventions, or populations.
  
  I enjoy honing and learning new skills.     
- 
+
+I’m especially passionate about:
+
+- Understanding how people think, decide, and change over time
+
+- Building and validating measurement tools
+
+- Applying statistical and machine learning models to behavioral data
+
  Feel free to ask me any questions 😄.
  
  Follow me on [LinkedIn](https://www.linkedin.com/in/mag-lucía-alvarez-nuñez/).   
